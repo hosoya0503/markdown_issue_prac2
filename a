@@ -41,3 +41,12 @@ public static void main (String []){
     system.out.println("Hello World");
 }
 ```
+
+# 水平線
+***
+
+# 表
+||見出し1|見出し2 |
+| -- | -- |
+| 内容1-1 | 内容2-1|
+| 内容1-2 | **内容2-2** |

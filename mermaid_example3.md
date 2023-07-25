@@ -1,13 +1,13 @@
 # mermaidで記述できるダイアグラムのチュートリアル
 
 ## Mermaidとは 
----
+
 MermaidはJavaScript製のダイアグラム生成ツールでUMLなどのダイアグラムを生成するツール。テキストから図を生成できるが、グラフを生成することはできない。
 
 公式サイトみると相当なことできるが使いこなすのは大変。簡易的なブロック図みたいなものでまずは利用できればいいかと思う。
 
 ## VSCodeでMermaidを使う手順
----
+
 VSCodeのMarkdownで使えるようにするためには[Markdown All in One](https://marketplace.visualstudio.com/items?itemName=yzhang.markdown-all-in-one)と[Markdown Preview Mermaid Support](https://marketplace.visualstudio.com/items?itemName=bierner.markdown-mermaid)のアドオンをインストールする。
 
 ## 記法
